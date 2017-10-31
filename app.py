@@ -6,7 +6,7 @@ from resources.Item import Item, ItemList
 from resources.user import UserRegister
 from resources.store import Store,StoreList
 from security import authenticate, identity
-import cx_Oracle
+#import cx_Oracle
 
 
 app = Flask(__name__)
